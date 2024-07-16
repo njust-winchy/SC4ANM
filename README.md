@@ -1,4 +1,7 @@
-# SC4ANM (Section Combination for Article Novelty Measurement)
+# SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Measurement in Academic Papers  
+
+
+## OverviewSC4ANM: Identifying Optimal Section Combinations for Automated Novelty Measurement in Academic Papers".</b>
 
 
 ## Citation
