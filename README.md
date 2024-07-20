@@ -64,7 +64,7 @@ System environment is set up according to the following configuration:
 - pytorch 2.0.1
 - tqdm 4.65.0
 - numpy 1.24.1
-
+- openai 1.29.0
 ## Acknowledgement
 
 We express our gratitude to the team at openreview.net for their dedication to advancing transparency and openness in scientific communication. We utilized the aspect identifying tool developed by  https://huggingface.co/howanching-clara/classifier_for_academic_texts.
