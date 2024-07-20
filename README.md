@@ -55,6 +55,22 @@ SC4ANM                                            Root directory
     - <code> python ./novelty_score_predict/create_data.py</code>  Create train, valid and test dataset from the dataset generated in the previous step.<br>
     - <code> python ./novelty_score_predict/main.py</code> Train model for novelty score prediction.<br>
     - <code> python ./llm_predict/gpt_test.py</code> Prompt LLM for novelty score prediction.<br>
+## Dependency packages
+System environment is set up according to the following configuration:
+- transformers==4.16.2
+- nltk==3.6.7
+- matplotlib==3.5.1
+- scikit-learn==1.1.3
+- pytorch 2.0.1
+- tqdm 4.65.0
+- numpy 1.24.1
+
+## Acknowledgement
+
+We express our gratitude to the team at openreview.net for their dedication to advancing transparency and openness in scientific communication. We utilized the aspect identifying tool developed by  https://huggingface.co/howanching-clara/classifier_for_academic_texts.
+
+
+
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
