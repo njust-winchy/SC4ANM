@@ -11,7 +11,8 @@ The main contributions of this paper are reflected in the following three aspect
 
 -Thirdly, the results indicate that fine-tuned PLMs outperform LLMs in predicting novelty scores, though their performance is not yet satisfactory. Furthermore, our findings suggest that the introduction, results, and discussion sections are more beneficial for automatic novelty score prediction tasks.
 ## Research overview
-![Figure2](https://github.com/user-attachments/files/16319411/Figure2.pdf)
+![image](https://github.com/user-attachments/assets/40f269d0-09f6-4b22-979d-d32de7e15228)
+
 
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
