@@ -47,7 +47,7 @@ SC4ANM                                            Root directory
 
 ## Quick Start
 <b> </b>
-    Download arXiv and PubMed dataset from https://github.com/armancohan/long-summarization.
+    Download arXiv and PubMed dataset from https://github.com/armancohan/long-summarization.\\
     - <code> python ./section_classfication/fintuned_PLM/section_extra.py</code>  Create dataset to train section classfication model.<br>
     - <code> python ./section_classfication/fintuned_PLM/train.py</code>  Train section classfication model.<br>
     - <code> python ./section_classfication/section_classfication.py</code>  Complete the recognition of section structure and generate a dataset for novel score prediction.<br>
