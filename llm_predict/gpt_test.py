@@ -35,12 +35,6 @@ def gpt_api(prompt):
                                             messages=[{"role": "system", "content": "you are a helpful assistant."},
                                                     {"role": "user", "content": prompt}],
                                             max_tokens=50)
-
-    # ai = OpenAI(base_url="https://burn.hair/v1", api_key="sk-JryNMTvHrE9FXcacAaEf86Db7dC6487093Ae288f02D9De16")
-    # completion = ai.chat.completions.create(model='gpt-4o',
-    #                                         messages=[{"role": "system", "content": "you are a helpful assistant."},
-    #                                                   {"role": "user", "content": prompt}],
-    #                                         max_tokens=50)
     return completion.choices[0].message.content
 
 count_dic = {'first':0, 'second':0, 'third':0}
