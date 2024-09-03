@@ -10,7 +10,7 @@ import torch
 i = 0
 dec= {'Accept (Poster)':0,'Reject':0,'Accept: notable-top-25%':0,'Accept (Oral)':0, 'Accept: notable-top-5%':0, 'Accept (Spotlight)':0,'Accept: poster':0}
 def count_tokens(text):
-    enc = tiktoken.get_encoding("cl100k_base")  # 假设使用GPT-4
+    enc = tiktoken.get_encoding("cl100k_base") 
     tokens = enc.encode(text)
     return len(tokens)
 def truncate_text(text, max_tokens):
