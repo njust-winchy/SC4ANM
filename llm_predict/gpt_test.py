@@ -30,7 +30,7 @@ def preprocess_text(string: str):
             string = string.replace(x, "")
     return string
 def gpt_api(prompt):
-    ai = OpenAI(base_url="https://api.kksj.org/v1", api_key="")
+    ai = OpenAI(base_url="", api_key="")
     completion = ai.chat.completions.create(model='gpt-4o',
                                             messages=[{"role": "system", "content": "you are a helpful assistant."},
                                                     {"role": "user", "content": prompt}],
