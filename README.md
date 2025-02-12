@@ -74,4 +74,4 @@ We express our gratitude to the team at openreview.net for their dedication to a
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Wenqing Wu, Chengzhi Zhang\*, Tong Bao, Yi Zhao. SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Prediction in Academic Papers. ***Expert Systems With Applications***, 2025 （in press) [[doi]](126778)  [[Dataset & Source Code]](https://github.com/njust-winchy/SC4ANM)
+> Wenqing Wu, Chengzhi Zhang\*, Tong Bao, Yi Zhao. SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Prediction in Academic Papers. ***Expert Systems With Applications***, 2025 （in press) [[doi]](https://doi.org/10.1016/j.eswa.2025.126778)  [[Dataset & Source Code]](https://github.com/njust-winchy/SC4ANM)
